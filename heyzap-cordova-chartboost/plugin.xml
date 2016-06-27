@@ -65,7 +65,7 @@
     <!-- Chartboost SDK -->
     <source-file src="src/android/chartboost.jar" target-dir="libs" />
 
-    <framework src="com.google.android.gms:play-services:+" />
+    <framework src="com.google.android.gms:play-services:9.0.2" />
     <!-- / Chartboost SDK -->
 
   </platform>
