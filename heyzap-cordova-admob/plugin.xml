@@ -76,7 +76,7 @@
     </config-file>
     <!-- / Native app manifest - Application Tag -->
 
-    <framework src="com.google.android.gms:play-services-ads:8.3.0" />
+    <framework src="com.google.android.gms:play-services:9.0.2" />
 
   </platform>
   <!-- / Android -->
